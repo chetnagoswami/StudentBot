@@ -1,0 +1,138 @@
+{
+    "college": {
+        "name": "Greater Noida Institute of Technology (GNIOT)",
+        "short_name": "GNIOT",
+        "college_code": "132",
+        "location": "Plot No. 7, Knowledge Park-II, Greater Noida, Gautam Buddh Nagar, Uttar Pradesh 201306, India",
+        "metro": "Walking distance from Knowledge Park II Metro Station",
+        "affiliation": "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow",
+        "approval": "Approved by AICTE",
+        "established": "2001"
+    },
+
+    "contact": {
+        "phone": "+91-120-2328214 / 15 / 16",
+        "toll_free": "1800 274 6969",
+        "admission_helpline": "+91-8860606661 / 62 / 63",
+        "admission_email": "admission@gniot.net.in",
+        "general_email": "gniot@gniot.net.in",
+        "fax": "+91-120-2326653"
+    },
+
+    "btech": {
+        "duration": "4 years",
+        "branches": [
+            "Computer Science and Engineering (CSE)",
+            "Computer Science and Engineering - Artificial Intelligence and Machine Learning (CSE AI & ML)",
+            "Computer Science and Engineering - Artificial Intelligence (CSE AI)",
+            "Computer Science and Engineering - Data Science (CSE DS)",
+            "Computer Science and Engineering - Cyber Security",
+            "Information Technology (IT)",
+            "Electronics and Communication Engineering (ECE)",
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Computer Science and Engineering - Internet of Things (CSE IoT)",
+            "Artificial Intelligence and Data Science"
+        ]
+    },
+
+    "other_courses": {
+        "courses": [
+            "M.Tech",
+            "MCA",
+            "MBA",
+            "PGDM",
+            "MBA Integrated (BBA+MBA)"
+        ]
+    },
+
+    "library": {
+        "name": "Shri Ram Central Library",
+        "timing": "Monday to Saturday: 9:00 AM - 7:00 PM",
+        "closed": "Sunday and Gazetted Holidays",
+        "volumes": "108,000+",
+        "titles": "10,000+",
+        "area": "1,312 square meters",
+        "seating_capacity": "250 users",
+        "facilities": [
+            "Air-conditioned reading hall",
+            "Digital library section",
+            "Wi-Fi",
+            "High-speed internet",
+            "Scanning and photocopying",
+            "Web-enabled OPAC",
+            "NDLI",
+            "DELNET",
+            "EBSCO Host",
+            "J-Gate",
+            "Springer e-Journals",
+            "NPTEL and SWAYAM"
+        ],
+        "student_borrowing": [
+            "6 books for one semester",
+            "3 books for 14 days"
+        ]
+    },
+
+    "hostel": {
+        "availability": "Separate hostel facilities are available for boys and girls.",
+        "capacity": "750 boys and 750 girls",
+        "location": "Close to the academic block within the campus",
+        "room": "2-seater rooms with attached bathroom",
+        "facilities": [
+            "Bed",
+            "Study table",
+            "Chair",
+            "Mattress",
+            "Bed sheets",
+            "Pillow",
+            "Blanket",
+            "Almirah",
+            "Recreation rooms",
+            "Internet",
+            "Wi-Fi"
+        ]
+    },
+
+    "fees": {
+        "hostel": {
+            "three_seater_cooler": "₹1,48,500 total",
+            "three_seater_ac": "₹1,89,000 total",
+            "two_seater_cooler": "₹1,71,000 total",
+            "two_seater_ac": "₹1,98,000 total"
+        },
+        "note": "University enrollment and semester examination fees may be paid separately through the university portal when demanded."
+    },
+
+    "admission": {
+        "btech_duration": "4 years",
+        "minimum_qualification": "10+2/intermediate or equivalent with Physics and Mathematics as compulsory subjects and one optional subject as specified by GNIOT.",
+        "minimum_marks": "45% in the specified subjects, 40% for SC/ST candidates",
+        "lateral_entry": "3-year duration for eligible Diploma in Engineering or B.Sc. with Mathematics candidates."
+    },
+
+    "facilities": [
+        "Lecture Halls",
+        "Library",
+        "Computer Labs",
+        "Hostel",
+        "Cafeteria",
+        "Sports",
+        "Transport",
+        "Medical Facilities"
+    ],
+
+    "accreditation": {
+        "naac": "A+",
+        "nba": "NBA accreditation for CSE, Electronics and Communication Engineering, and Information Technology programs"
+    },
+
+    "general": {
+        "type": "Private, self-financed, non-minority, co-educational institute",
+        "student_count": "10,000+",
+        "faculty_count": "510+",
+        "alumni": "20,500+",
+        "recruiters": "400+"
+    }
+}
